@@ -1,0 +1,50 @@
+header h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+article h2{
+    text-align: right;
+}
+article p{
+    text-align: justify;    
+}
+h1 {   
+    font-size: 2em;
+}
+h2 {   
+    font-size: 1.5em;
+}
+h3 {   
+    font-size: 1.17em;
+}
+h4 {   
+    font-size: 1em;
+}
+h5 {   
+    font-size: 0.87em;
+}
+h6 {   
+    font-size: 0.7em;
+}
+.mont{
+	font-family: 'Montserrat', sans-serif;
+}
+.piaz{
+	font-family: 'Piazzolla', serif;
+}
+.robo{
+	font-family: 'Roboto Mono', monospace;
+}
+.sans{
+	font-family: 'Sansita Swashed', cursive;
+}
+.secu{
+	font-family: 'Secular One', sans-serif;
+}
+
+
+
+
+footer p{
+    text-align: center;    
+   }
